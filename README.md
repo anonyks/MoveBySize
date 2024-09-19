@@ -1,6 +1,3 @@
-For your GitHub repository `anonyks/MoveBySize`, here's a comprehensive README file along with a succinct one-liner description that summarizes the script's functionality effectively.
-
-### One-Liner Description
 # MoveBySize ~ #Only4ThoseWhoKnows
 
 `MoveBySize` is a Python script tailored for users who need to organize large quantities of files across directories. It allows for sorting files by size within specified ranges and can operate within a single directory or recursively through subdirectories. This utility also handles potential duplicates by renaming them, ensuring no data loss during the operation.
